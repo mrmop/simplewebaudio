@@ -1,2 +1,3 @@
 # simplewebaudio
-A simple Web Audio wrapper example
+A simple Web Audio wrapper example for HTML5
+
